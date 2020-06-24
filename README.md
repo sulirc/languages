@@ -2,7 +2,7 @@
 Learn a lot of languages
 
 ## Ruby
-irb / ruby
+shell: irb
 
 ## Io
 http://iolanguage.com/
@@ -10,9 +10,15 @@ http://iolanguage.com/
 brew install io
 ```
 
-io
+shell: io
 
 ## Prolog
 https://www.swi-prolog.org/download/stable
 
-swipl
+shell: swipl
+
+## Scala
+
+```bash
+brew install scala
+```
